@@ -4,33 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de2c9867-4cf3-4dd1-8823-71a31b7579e9" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/UIAutomation/pages/pageFactory/LoginPage_PageFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/UIAutomation/pages/pageobjectmodel/Sample/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/UIAutomation/pages/pageobjectmodel/Sample/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/UIAutomation/pages/pageobjectmodel/Sample/LogoutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/UIAutomation/pages/pageobjectmodel/orangehr/DashBoardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/UIAutomation/pages/pageobjectmodel/orangehr/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/UIAutomation/pages/pageobjectmodel/vmo/DashboardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/UIAutomation/pages/pageobjectmodel/vmo/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/UIAutomation/utils/ExcelReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/UIAutomation/utils/PropertiesReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/UIAutomation/listeners/RetryAnalyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/UIAutomation/tests/orangeHR/OrangeHr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/UIAutomation/tests/vmoApp/pageFactory/VMOLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/UIAutomation/tests/vmoApp/pageobjectmodel/pageobjectmodel/VMOLogin.java" afterDir="false" />
+    <list default="true" id="de2c9867-4cf3-4dd1-8823-71a31b7579e9" name="Changes" comment="Framework commit">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/UIAutomation/tests/SampleTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/UIAutomation/base/CommonToAllPages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/UIAutomation/base/CommonToAllPages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/UIAutomation/driver/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/UIAutomation/driver/DriverManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/UIAutomation/pages/HomePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/UIAutomation/pages/LoginPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/UIAutomation/pages/LogoutPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/UIAutomation/utils/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/UIAutomation/utils/configproperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/UIAutomation/base/CommonToAllTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/UIAutomation/base/CommonToAllTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/UIAutomation/listeners/RetryListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/UIAutomation/listeners/RetryListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/UIAutomation/listeners/RetryAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/UIAutomation/listeners/RetryAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/UIAutomation/tests/sampletest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/UIAutomation/tests/sampletest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/UIAutomation/tests/vmoApp/pageobjectmodel/pageobjectmodel/VMOLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +56,11 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "TestNG.C:/Personal/uiautomation-javaseleniumframework/testng.xml.executor": "Run",
+    "TestNG.SampleTest2.executor": "Run",
+    "TestNG.SampleTest2.testMethod1.executor": "Run",
     "TestNG.sampletest.executor": "Run",
+    "TestNG.sampletest.testButtonClickRetry.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Personal/uiautomation-javaseleniumframework/src/main/java/org/UIAutomation/utils",
@@ -97,7 +81,52 @@
       <recent name="C:\Personal\uiautomation-javaseleniumframework\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.C:/Personal/uiautomation-javaseleniumframework/testng.xml">
+    <configuration name="C:/Personal/uiautomation-javaseleniumframework/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="uiautomation-javaseleniumframework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTest2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="uiautomation-javaseleniumframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.UIAutomation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.UIAutomation.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.UIAutomation.tests.SampleTest2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTest2.testMethod1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="uiautomation-javaseleniumframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.UIAutomation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.UIAutomation.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.UIAutomation.tests.SampleTest2" />
+      <option name="METHOD_NAME" value="testMethod1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="sampletest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="uiautomation-javaseleniumframework" />
       <extension name="coverage">
@@ -115,8 +144,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sampletest.testButtonClickRetry" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="uiautomation-javaseleniumframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.UIAutomation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.UIAutomation.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.UIAutomation.tests.sampletest" />
+      <option name="METHOD_NAME" value="testButtonClickRetry" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Personal/uiautomation-javaseleniumframework/testng.xml" />
+        <item itemvalue="TestNG.SampleTest2" />
+        <item itemvalue="TestNG.SampleTest2.testMethod1" />
+        <item itemvalue="TestNG.sampletest.testButtonClickRetry" />
         <item itemvalue="TestNG.sampletest" />
       </list>
     </recent_temporary>
@@ -138,11 +189,28 @@
       <option name="project" value="LOCAL" />
       <updated>1736390687113</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Framework commit">
+      <option name="closed" value="true" />
+      <created>1737081811257</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737081811258</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Framework commit">
+      <option name="closed" value="true" />
+      <created>1737082219243</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737082219243</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Framework commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Framework commit" />
   </component>
 </project>
