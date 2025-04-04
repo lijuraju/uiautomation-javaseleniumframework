@@ -1,4 +1,4 @@
-package org.UIAutomation.tests;
+package org.UIAutomation.tests.sample;
 
 import org.UIAutomation.listeners.RetryAnalyzer;
 import org.openqa.selenium.By;
